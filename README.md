@@ -1,5 +1,5 @@
 # Kernel-Methods
-Advance Machine Learning Projects (In progress)
+Advance Machine Learning Projects
 
 - Comparison of PCA and Kernel PCA
   dataset: iris, moons, circle, classification and swiss roll
